@@ -15,5 +15,6 @@ Frontend: React.js, Redux, Tailwind CSS
 Backend: Node.js, Express.js (Currently working on it 🚧)
 Database: MongoDB
 Payment Integration: Stripe
-Authentication: JWT & bcrypt
+Authentication: JWT & bcrypt.
+
 💡 Upcoming Updates: Inhanceing backend and Improving API performance, adding real-time notifications, and enhancing security.
